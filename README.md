@@ -1,3 +1,3 @@
 # Module training short project
 String search
-using os library to direct your input - txt - path
+using os module to direct your input - txt - path

@@ -1,8 +1,6 @@
 import os
-
 text = input("Enter Your Text :")
 path = input("required path :")
-
 # os.chdir(path)
 def readf(path):
     f = 0 # intial f 0
